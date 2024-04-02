@@ -9,6 +9,10 @@ Tech and Tools used:
 4)react-player
 5)react-icons
 
+
+![image](https://github.com/Manu839/Fresh_Mood/assets/124304448/05b2cb70-d665-432e-b3cd-bd61e3765f2f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
