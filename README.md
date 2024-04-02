@@ -1,3 +1,7 @@
+With Fresh-mood website, you can create your ideal ambiance for productivity or relaxation. Set the timer for your desired duration, and while it counts down, immerse yourself in soothing background videos from YouTube, you can also choose from a selection of serene themes to enhance your experience.
+
+But that's not all. Fresh mood also offers a variety of calming sounds to accompany your session. From gentle rain showers to tranquil forest melodies, customize your auditory environment to suit your mood and needs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
