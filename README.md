@@ -2,6 +2,13 @@ With Fresh-mood website, you can create your ideal ambiance for productivity or 
 
 But that's not all. Fresh mood also offers a variety of calming sounds to accompany your session. From gentle rain showers to tranquil forest melodies, customize your auditory environment to suit your mood and needs.
 
+Tech and Tools used:
+1)React
+2)Tailwindcss
+3)Daisyui
+4)react-player
+5)react-icons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
